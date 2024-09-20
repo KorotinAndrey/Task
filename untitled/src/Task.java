@@ -1,6 +1,4 @@
 public class Task {
-}
-public class Task {
 
 
     //Задача написать запрос в SQL
